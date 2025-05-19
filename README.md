@@ -1,2 +1,2 @@
-#Simple i18n
+# Simple i18n
 Inspired by asp.net core i18n programing api, whose simplicity and conscise api style was my favorite. But these characters I have not found in the most popular nodejs i18n packages, or maybe just because I am accustomed asp.net core's api style. A step futher, I feel an ideal programing api of an i18n package could event more simpler. So I created this my own i18n project, which is simple, straight foward, versitle and extensible.
